@@ -1,0 +1,75 @@
+root 70G 
+Swap 5G
+ home 71G
+
+
+
+### Server ###
+hostname : svr
+
+username : xyclussvr
+
+passwd   :`kalung
+
+
+
+
+### Zpanel ###
+mysql
+
+username 	: root
+
+passwd 		: CqUhhsuH
+
+
+username 	:zadmin
+
+passwd 		:hva1wE
+
+username: xyclus
+
+passwd 	: #xyclus123
+
+Username: karunia
+
+Password: ubusuhyjy
+
+
+Username: ofto
+
+Password: guqepyzuv
+
+Username: bc
+
+Password: y8unu3uby
+
+Username: xcitech
+
+Password: ytu4ydaqy
+
+username : leaf
+
+password : venebadym
+
+
+
+username : carla
+
+password : gybu9ydup
+
+username : semesta
+
+password : indo#semesta
+
+
+
+username : matasiwa
+
+password : ms#com
+
+username : cleo
+password : #cleo#
+
+username : spam	
+
+password : spam#holic
